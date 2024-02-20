@@ -4,7 +4,6 @@ void Rectangle::size()
 {
 	radius = radius * radius;
 }
-
 void Rectangle::draw()
 {
 	printf("%f\n", radius);
